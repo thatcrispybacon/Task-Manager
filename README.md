@@ -6,4 +6,5 @@
 > **No STABLE version yet**
 
 # Release Version:  
-Dev
+> [Beta](https://github.com/thatcrispybacon/Task-Manager/blob/main/Beta/index.html)  
+> [Dev](https://github.com/thatcrispybacon/Task-Manager/blob/main/Dev/index.html)  
