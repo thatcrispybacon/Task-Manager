@@ -3,7 +3,8 @@
 
 > [!CAUTION]
 > In Dev stage, will not work untill at least beta or stable.  
-> **No STABLE version yet**
+> **No STABLE version yet**  
+> **Beta Version Released**
 
 # Release Version:  
 > [Beta](https://github.com/thatcrispybacon/Task-Manager/blob/main/Beta/index.html)  
