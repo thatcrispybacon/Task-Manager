@@ -1,6 +1,7 @@
 # Work in Progress  
 **Unfinished, please it wait untill this readme says it is released**  
 
+**You can download the zip and navigate to the wanted version**
 > [!CAUTION]
 > In Dev stage, will not work untill at least beta or stable.  
 > **No STABLE version yet**  
@@ -11,4 +12,4 @@
 > [Dev](https://github.com/thatcrispybacon/Task-Manager/blob/main/Dev/index.html)
 
 > [!IMPORTANT]  
-> The task saving features doesn't work but email is still required to create tasks
+> The task saving features doesn't work but email is still required to create tasks  
