@@ -140,7 +140,12 @@ const radius = {
   med:230,
   low:290
 };
-
+window.addEventListener('keydown', (event) => {
+  if(event.ctrlKey || event.metaKey) and(event.key.toLowerCase() === 's')
+    event.preventDefault();
+    alert(1)
+  
+})
 const emailInput = document.getElementById("email");
 const textInput  = document.getElementById("text");
 const dateInput  = document.getElementById("date");
