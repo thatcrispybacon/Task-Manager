@@ -8,4 +8,7 @@
 
 # Release Version:  
 > [Beta](https://github.com/thatcrispybacon/Task-Manager/blob/main/Beta/index.html)  
-> [Dev](https://github.com/thatcrispybacon/Task-Manager/blob/main/Dev/index.html)  
+> [Dev](https://github.com/thatcrispybacon/Task-Manager/blob/main/Dev/index.html)
+
+> [!IMPORTANT]  
+> The task saving features doesn't work but email is still required to create tasks
