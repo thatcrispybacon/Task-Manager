@@ -13,3 +13,6 @@
 
 > [!IMPORTANT]  
 > The task saving features doesn't work but email is still required to create tasks  
+
+# Task - Manager
+This is a browser based  task-manager that saves to your browsers local storage.
